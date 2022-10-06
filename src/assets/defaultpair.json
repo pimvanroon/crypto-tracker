@@ -1,0 +1,30 @@
+[
+  {
+    "cid": 1,
+    "symbol": "BTCUSDT",
+    "base": "BTC",
+    "quote": "USDT",
+    "name": "Bitcoin"
+  },
+  {
+    "cid": 1027,
+    "symbol": "ETHUSDT",
+    "base": "ETH",
+    "quote": "USDT",
+    "name": "Ethereum"
+  },
+  {
+    "cid": 5994,
+    "symbol": "SHIBEUR",
+    "base": "SHIB",
+    "quote": "EUR",
+    "name": "SHIBA INU"
+  },
+  {
+    "cid": 2010,
+    "symbol": "ADAUSDT",
+    "base": "ADA",
+    "quote": "USDT",
+    "name": "Cardano" 
+  }
+]
